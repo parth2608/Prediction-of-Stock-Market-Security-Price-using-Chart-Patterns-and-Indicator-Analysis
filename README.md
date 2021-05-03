@@ -1,0 +1,2 @@
+# Prediction-of-Stock-Market-Security-Price-using-Chart-Patterns-and-Indicator-Analysis
+In this project, we have attempted to create and compare different machine learning models that would accurately predict stock prices. For this, we have built five machine learning models for time series and chart pattern analysis. The LSTM, RNN, GRU, and Ensemble models are based directly on historical data of the stock prices, whereas the chart pattern analysis is based on encoder-decoder architecture and DCNN.
